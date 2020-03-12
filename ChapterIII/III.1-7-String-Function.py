@@ -1,0 +1,10 @@
+# len(),str(),hex(),oct()
+print('-'*20)
+print(len('1234'))
+print(str(1234))
+print(hex(1234))
+print(oct(1234))
+
+# chr(),ord()
+print(chr(1004))
+print(ord('&'))
