@@ -18,7 +18,8 @@ print('{:.2f}'.format(1.55555)) # 四舍五入
 print('-'*50)
 print('{:b}'.format(255)) # 二进制
 print('{:c}'.format(255)) # 字符
-print('{:d}'.format(255)) # 十进制
+print('{:d}'.format(255)) # 十进制1
+print('{}'.format(255)) # 十进制2
 print('{:o}'.format(255)) # 八进制
 print('{:x}'.format(255)) # 十六进制
 print('{:X}'.format(255))
@@ -27,5 +28,6 @@ print('{:X}'.format(255))
 print('-'*50)
 print('{:e}'.format(0.034))
 print('{:E}'.format(0.034))
-print('{:f}'.format(0.034))
+print('{:f}'.format(0.034)) # 浮点1
+print('{}'.format(0.034)) # 浮点2
 print('{:%}'.format(0.034))
