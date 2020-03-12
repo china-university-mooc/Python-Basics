@@ -1,0 +1,21 @@
+# abs(),divmod(),pow()
+print('-'*20)
+print(abs(-1))
+print(divmod(10, 3))
+print(pow(2, 3))
+print(pow(2, 8, 10))
+
+# round(),max(),min()
+print('-'*20)
+print(round(1.55))
+print(round(1.55, 1))
+print(max(1, 2, 3))
+print(min(1, 2, 3))
+
+# int(),float(),complex
+print('-'*20)
+print(int('3'))
+print(float('3.3'))
+print(float('3.5e2'))
+print(complex(3))
+print(complex(3, 4))
