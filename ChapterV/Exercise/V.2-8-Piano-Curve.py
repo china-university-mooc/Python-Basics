@@ -17,6 +17,6 @@ def piano(len, level, style):
 
 tt.speed('fastest')
 tt.left(90)
-piano(200, 3, 'l')
+piano(243, 4, 'l')
 tt.hideturtle()
 tt.done()
