@@ -1,12 +1,10 @@
 ## Practice and Exercise for [China-University-Mooc](https://github.com/china-university-mooc) *Python-Basics*
 
 ### Chapter I: Basic Programming Methods
-- [**Sample**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterI/Sample)
 - [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterI/Exercise)
 - [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterI/Quiz)
 
 ### Chapter II: Python Program Example Analysis
-- [**Sample**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterII/Sample)
 - [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterII/Exercise)
 - [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterII/Quiz)
 
