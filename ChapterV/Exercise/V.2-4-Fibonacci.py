@@ -4,7 +4,5 @@ def fibonacci(n):
         return 1
     return fibonacci(n - 1) + fibonacci(n - 2)
 
-print(fibonacci(1))
-print(fibonacci(2))
-print(fibonacci(3))
-print(fibonacci(4))
+n = eval(input())
+print(fibonacci(n))

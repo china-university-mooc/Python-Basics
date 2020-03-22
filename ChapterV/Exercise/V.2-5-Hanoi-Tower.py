@@ -1,11 +1,15 @@
 
 def hanoi(n, src, to, mid):
+    global step
     if (n == 1):
-        print("{}: {} -> {}".format(1, src, to))
+        step += 1
+        print("[STEP{:>4}] {}->{}".format(step, src, to))
     else:
         hanoi(n - 1, src, mid, to)
-        print("{}: {} -> {}".format(n, src, to))
+        hanoi(1, src, to, mid)
         hanoi(n - 1, mid, to, src)
 
-hanoi(2, 'A', 'C', 'B')
+step = 0
+n = eval(input())
+hanoi(n, 'A', 'C', 'B')
 
