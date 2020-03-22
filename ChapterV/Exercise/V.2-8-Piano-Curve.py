@@ -15,8 +15,17 @@ def piano(len, level, style):
 
             style = 'r' if style == 'l' else 'l'
 
-tt.speed('fastest')
-tt.left(90)
-piano(243, 4, 'l')
-tt.hideturtle()
-tt.done()
+def main():
+    tt.setup(300, 300)
+    tt.speed('fastest')
+    tt.pencolor('blue')
+    tt.left(90)
+    tt.penup()
+    tt.goto(-120, -120)
+    tt.pendown()
+
+    piano(243, 4, 'l')
+    tt.hideturtle()
+    tt.done()
+
+main()
