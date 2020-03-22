@@ -9,3 +9,8 @@
 - [**Sample**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Sample)
 - [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Exercise)
 - [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Quiz)
+
+### Chapter V: Function
+- [**Sample**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Sample)
+- [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Exercise)
+- [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Quiz)
