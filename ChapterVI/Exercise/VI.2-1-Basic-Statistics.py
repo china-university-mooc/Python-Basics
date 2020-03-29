@@ -1,11 +1,7 @@
 
 def getNum():
-    nums = []
-    numStr = input()
-    while numStr != '':
-        nums.append(eval(numStr))
-        numStr = input()
-    return nums
+    inStr = input()
+    return eval('[{}]'.format(inStr))
 
 def sum(ls):
     s = 0.0
@@ -24,7 +20,7 @@ def variance(ls):
     return pow(svar / (len(ls) - 1), 0.5)
 
 def median(ls):
-    sorted(ls)
+    ls.sort()
     size = len(ls)
     if size % 2 == 0:
         med = (ls[size//2 -1] + ls[size//2]) / 2
@@ -34,6 +30,6 @@ def median(ls):
 
 def main():  
     nums = getNum()
-    print("avg={}, var={:.3}, med={}".format(average(nums), variance(nums), median(nums)))
+    print("平均值:{:.2f},标准差:{:.2f},中位数:{}".format(average(nums), variance(nums), median(nums)))
 
 main()

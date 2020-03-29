@@ -1,5 +1,5 @@
 def getText():
-    with open('hamlet.txt') as f:
+    with open('hamlet.txt', 'r') as f:
         text = f.read()
     return text
 
