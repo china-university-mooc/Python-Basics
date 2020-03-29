@@ -1,24 +1,31 @@
-## Practice and Exercise for [China-University-Mooc](https://github.com/china-university-mooc) *Python-Basics*
+# Python-Basics
 
-### Chapter I: Basic Programming Methods
-- [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterI/Exercise)
-- [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterI/Quiz)
+《Python语言程序设计基础》的练习代码
 
-### Chapter II: Python Program Example Analysis
-- [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterII/Exercise)
-- [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterII/Quiz)
+### 第1章: 程序设计基本方法
+- [练习](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterI/Exercise)
+- [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterI/Quiz)
 
-### Chapter III: Basic Data Type
-- [**Sample**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIII/Sample)
-- [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIII/Exercise)
-- [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIII/Quiz)
+### 第2章: Python程序实例解析
+- [练习](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterII/Exercise)
+- [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterII/Quiz)
 
-### Chapter IV: Program Control Structure
-- [**Sample**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Sample)
-- [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Exercise)
-- [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Quiz)
+### 第3章: 基本数据类型
+- [样例](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIII/Sample)
+- [练习](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIII/Exercise)
+- [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIII/Quiz)
 
-### Chapter V: Function and Code Reuse
-- [**Sample**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Sample)
-- [**Exercise**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Exercise)
-- [**Quiz**](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Quiz)
+### 第4章: 程序的控制结构
+- [样例](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Sample)
+- [练习](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Exercise)
+- [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterIV/Quiz)
+
+### 第5章: 函数和代码复用
+- [样例](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Sample)
+- [练习](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Exercise)
+- [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterV/Quiz)
+
+### 第6章: 组合数据类型
+- [样例](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVI/Sample)
+- [练习](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVI/Exercise)
+- [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVI/Quiz)
