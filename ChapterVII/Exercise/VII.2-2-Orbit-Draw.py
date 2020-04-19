@@ -3,7 +3,7 @@ import turtle as t
 f = open('data.txt')
 datals = []
 for line in f:
-    line.replace('\n','')
+    line = line.replace('\n','')
     datals.append(list(map(eval, line.split(','))))
 f.close()
 print(datals)
