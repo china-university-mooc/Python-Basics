@@ -30,15 +30,15 @@
 - [练习](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVI/Exercise)
 - [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVI/Quiz)
 
-## 第7章：文件和数据格式化
+### 第7章：文件和数据格式化
 - [样例](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVII/Sample)
 - [练习](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVII/Exercise)
 - [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVII/Quiz)
 
-## 第8章：程序设计方法学
+### 第8章：程序设计方法学
 
 - [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/ChapterVIII)
 
-## 期末测验
+### 期末测验
 
 - [测试](https://github.com/china-university-mooc/Python-Basics/tree/master/Quiz)
